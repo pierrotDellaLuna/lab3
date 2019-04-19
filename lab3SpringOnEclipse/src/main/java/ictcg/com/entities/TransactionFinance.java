@@ -13,6 +13,7 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
+//TODO why do you have lombok annotations and also getters and setters also why you need constructor, why you didnt use with the same lombok library?
 @Getter
 @Setter
 @EqualsAndHashCode
@@ -26,6 +27,7 @@ public class TransactionFinance {
 	@Setter
 	private LocalTime time;
 	@JsonIgnore
+	//TODO here again 3rd time you have set getters and setters its redundant, read a little bit more about Project Lombok
 	@Getter
 	@Setter
 	private double price;
