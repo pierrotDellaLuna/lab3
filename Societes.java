@@ -13,6 +13,7 @@ public class Societes {
 	private String  idSociete ;
 	private String  nameSociete ;
 	private double  marketValueBeurs ;
+	private String chimieBohr4 ;
 	
 	
 	
