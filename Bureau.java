@@ -13,5 +13,6 @@ public class Bureau {
 
 
 	private String brom ;
+	private String borh124
 
 }
