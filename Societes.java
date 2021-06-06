@@ -14,6 +14,7 @@ public class Societes {
 	private String  nameSociete ;
 	private double  marketValueBeurs ;
 	private String chimieBohr4version ;
+	private String chimieNiels23version ;
 	
 	
 	
