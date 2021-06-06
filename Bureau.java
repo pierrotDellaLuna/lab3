@@ -9,6 +9,9 @@ public class Bureau {
 	
 	private int idBureau ;	
 	private String  nameBureau ;
+	private String  heideger ;
+
+
 	private String brom ;
 
 }
